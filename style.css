@@ -81,7 +81,12 @@ p {
 }
 
 .h1 span {
+  color: hsl(234, 12%, 34%);
   font-weight: 600;
+}
+
+h2 {
+  color: hsl(234, 12%, 34%);
 }
 
 .page2 {
@@ -106,7 +111,7 @@ p {
 }
 
 .card p {
-  font-size: 14px;
+  font-size: 16px;
   margin: 15px 0 40px;
 }
 
